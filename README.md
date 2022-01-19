@@ -10,14 +10,6 @@ Updated the chainstate database (March 15 2021)
 
 [![](https://img.shields.io/github/stars/SayWhat69/Plutus.svg)](https://github.com/SayWhat69/Plutus)
 
-# Wanna Support Me?
-
-```
-BTC: 16vp3EYZoP35MtdquQHxyhxT6ocbNFtw1K
-ETH: 0xD7C174Bd0B8b46700e0570a852180D16f3b16aa5
-LTC: MT2LsA7LHHsP2H84fhXBKWkU2B4ez7MerZ
-```
-
 # Dependencies
 
 <a href="https://www.python.org/downloads/">Python 3.6</a> or higher
@@ -87,14 +79,3 @@ This program uses approximately 2GB of RAM per CPU. Because this program uses mu
 
 The memory consumption stack trace was made by using <a href="https://pypi.org/project/memory-profiler/">mprof</a> to monitor this program brute force 10,000 addresses on a 4 logical processor machine with 8GB of RAM. As a result, 4 child processes were created, each consuming 2100MiB of RAM (~2GB).
 
-# Recent Improvements & TODO
-
-- [X] Fixed typos/formatting
-
-- [ ] Update database
-
-- [ ] Pickle loader
-
-- [ ] Try to fix Memory Error
-
-<a href="https://github.com/SayWhat69/Plutus/issues">Create an issue</a> so I can add more stuff to improve
